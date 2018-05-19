@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name        sc-letterboxd
-// @namespace   https://gist.github.com/nothuck/74b07fc28e37e010c967f8f1e45e6bdc
-// @version     1.0
+// @namespace   https://github.com/nothuck/sc-letterboxd/
+// @version     1.1
 // @author      huck
 // @description Add link to Letterboxd to SC torrent page.
 // @homepage    https://secret-cinema.pw/forums.php?action=viewthread&threadid=902
 //
 // @icon        https://letterboxd.com/favicon.ico
-// @updateURL   https://gist.githubusercontent.com/nothuck/74b07fc28e37e010c967f8f1e45e6bdc/raw/04671ed7936073be1b412557157cf9e4b38f467c/sc-letterboxd.user.js#bypass=true
-// @downloadURL https://gist.githubusercontent.com/nothuck/74b07fc28e37e010c967f8f1e45e6bdc/raw/04671ed7936073be1b412557157cf9e4b38f467c/sc-letterboxd.user.js#bypass=true
+// @updateURL   https://github.com/nothuck/sc-letterboxd/raw/master/sc-letterboxd.user.js
+// @downloadURL https://github.com/nothuck/sc-letterboxd/raw/master/sc-letterboxd.user.js
 // @match       *://*.secret-cinema.pw/torrents.php?id=*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @run-at      document-body
