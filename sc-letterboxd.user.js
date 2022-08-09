@@ -11,7 +11,6 @@
 // @downloadURL https://github.com/nothuck/sc-letterboxd/raw/master/sc-letterboxd.user.js
 // @match       *://*.secret-cinema.pw/torrents.php?id=*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
-// @run-at      document-body
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true);
